@@ -1,0 +1,4 @@
+logs/error.log
+logs/access.log
+logs/nginx.pid
+_.idea/workspace.xml

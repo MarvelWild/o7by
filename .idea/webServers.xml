@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7388d1b2-7899-4a84-a384-a1b5352c4748" name="wsl" url="http://o7.by">
+        <fileTransfer host="localhost" port="23" privateKey="C:\Documents\ssh\global1_openssh" rootFolder="/usr/local/openresty/nginx/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="23" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

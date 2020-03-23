@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6e6f040-1ead-4f81-9b36-c3e40bf94c04" name="wsl" url="http://localhost:9090">
+        <fileTransfer host="localhost" port="2222" privateKey="C:\Documents\ssh\global1_openssh" rootFolder="/usr/local/openresty/nginx/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

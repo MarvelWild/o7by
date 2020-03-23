@@ -1,0 +1,4 @@
+<!-- views/hello.etlua -->
+<div class="my_page">
+  Here is a random number: <%= rnd %> <%= rnd2 %>
+</div>

@@ -1,0 +1,13 @@
+<section class="section">
+    <div class="container">
+        <h1 class="title">
+            Contact
+        </h1>
+        <p class="subtitle">
+            <form method="POST" action="/contact-form">
+                <input type="text" value="http://ip4.me/" name="url" />
+                <input type="submit" value="Get" />
+            </form>
+        </p>
+    </div>
+</section>
