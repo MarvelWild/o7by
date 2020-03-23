@@ -25,15 +25,7 @@ app:match("/about", about)
 app:match("/gamedev", gamedev)
 app:match("/webdev", webdev)
 app:match("/contact", contact)
-app:post("/contact-form", function (self)
-    local message = self.req.params_post.message.."\n"
-
-    local log=assert(io.open("/usr/local/openresty/nginx/html/logs/app/contact.txt", "a"))
-    log:write(message)
-    log:close()
-
-    return "received"
-end)
+app:post("/contact-form", contact_form)
 
 
 

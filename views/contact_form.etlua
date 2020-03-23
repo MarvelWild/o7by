@@ -4,10 +4,7 @@
             Contact
         </h1>
         <p class="subtitle">
-            <form method="POST" action="/contact-form">
-                <input type="text" value="http://ip4.me/" name="url" />
-                <input type="submit" value="Get" />
-            </form>
+            received
         </p>
     </div>
 </section>
