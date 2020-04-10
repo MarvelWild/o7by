@@ -1,0 +1,47 @@
+<section class="section">
+	<div class="container">
+		<h1 class="title">
+			Pixels to centimeters
+		</h1>
+		<p class="subtitle">
+
+		</p>
+		<style>
+			.px_box
+			{
+				background-color:aquamarine;
+				border-right: 1px solid blue;
+				border-left: 1px solid blue;
+				height:40px;
+				margin-top:8px;
+				margin-bottom:8px;
+			}
+
+			.px_box_v
+			{
+				background-color:aquamarine;
+				border-top: 1px solid blue;
+				border-botom: 1px solid blue;
+				margin-top:8px;
+				margin-bottom:8px;
+				width:160px;
+			}
+		</style>
+		
+	<% for i, item in pairs(items) do %>
+	<div class="px_box" style="width:<%=item%>px">
+		<%=item%>px
+	</div>
+  <% end %>
+
+
+	<% for i, item in pairs(items) do %>
+	<div class="px_box_v" style="height:<%=item%>px">
+		<%=item%>px
+	</div>
+	<% end %>
+		
+	
+
+	</div>
+</section>

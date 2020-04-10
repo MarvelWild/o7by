@@ -5,8 +5,14 @@
         </h1>
         <p class="subtitle">
         <form method="POST" action="/contact-form">
-            <input type="text" value="" name="message" />
-            <input type="submit" value="Submit" />
+            <div class="container" style="margin-bottom: 8px">
+                <label>
+                    <textarea name="message" rows="5" class="textarea is-large" style="min-width: 300px"></textarea>
+                </label>
+            </div>
+            <div class="container">
+                <input type="submit" class="input button is-primary is-large" value="Submit" />
+            </div>
         </form>
         </p>
     </div>

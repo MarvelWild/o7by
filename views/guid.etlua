@@ -1,0 +1,23 @@
+<section class="section">
+	<div class="container">
+		<h1 class="title">
+			Guid generator
+		</h1>
+		<p class="subtitle" id="guid">
+			<%=guid%>
+		</p>
+		<button class="button is-info is-large" id="btn_guid_copy"
+						style="width:100px"
+						onclick="
+	const el = document.getElementById('guid');
+	clipbpard_set(el.innerText);
+	const btn = document.getElementById('btn_guid_copy');
+	btn.innerHTML='Copied';
+	btn.classList.add('is-success');
+">Copy</button>
+
+		<button class="button is-large" id="btn_next" onclick="
+location.reload();
+">Next</button>
+	</div>
+</section>

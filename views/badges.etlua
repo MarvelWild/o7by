@@ -1,0 +1,18 @@
+<section class="section">
+	<div class="container">
+		<h1 class="title">
+			Badges
+		</h1>
+		<p>
+			<a href="https://bulma.io">
+				<img src="/static/img/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
+			</a>
+		</p>
+		<p>
+			<a href="https://bulma.io">
+				<img src="/static/img/powered-by-lua.gif" alt="Powered by lua" width="128" height="128">
+			</a>
+		</p>
+	</div>
+</section>
+

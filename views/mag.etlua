@@ -1,0 +1,18 @@
+<%
+--[[
+<h1 class="title">
+	Zine
+</h1>
+
+]]--
+%>
+<section class="section">
+
+        <div class="zine-container">
+            <% for i, id in pairs(ids) do %>
+            <div class="zine-item">
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/<%= id %>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <% end %>
+        </div>
+</section>

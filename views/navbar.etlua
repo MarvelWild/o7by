@@ -1,36 +1,100 @@
 <%
 -- todo  is-active
 %>
-<nav class="navbar " role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item">
-<!--      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">-->
-    </a>
+<nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+	<div class="navbar-brand">
+		<a class="navbar-item">
+			<!--      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">-->
+		</a>
 
-    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
+		<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+			 data-target="navbarBasicExample">
+			<span aria-hidden="true"></span>
+			<span aria-hidden="true"></span>
+			<span aria-hidden="true"></span>
+		</a>
+	</div>
 
-  <div id="navbar_main" class="navbar-menu">
-    <div class="navbar-start">
-      <a class="navbar-item" href="/">
-        Home
-      </a>
+	<div id="navbar_main" class="navbar-menu">
+		<div class="navbar-start">
+			<a class="navbar-item" href="/">
+				Home
+			</a>
 
-      <a class="navbar-item" href="/gamedev/">
-        Game development
-      </a>
+			<a class="navbar-item" href="/gamedev/">
+				Game development
+			</a>
 
-      <a class="navbar-item" href="/webdev/">
-        Web development
-      </a>
+			<a class="navbar-item" href="/dev/">
+				Custom development
+			</a>
 
-      <a class="navbar-item" href="/contact/">
-        Contact
-      </a>
-    </div>
-  </div>
+			<a class="navbar-item" href="/mag/">
+				Zine
+			</a>
+
+			<a class="navbar-item" href="/art/">
+				Art
+			</a>
+
+			<div class="navbar-item has-dropdown is-hoverable">
+
+				<p class="navbar-link">
+					Tools
+				</p>
+
+				<div id="moreDropdown" class="navbar-dropdown">
+					<a class="navbar-item  " href="/guid">
+              <span>
+                Guid generator
+                <br>
+              </span>
+					</a>
+					<a class="navbar-item  " href="/px_to_sm">
+              <span>
+                Pixels to centimeters
+                <br>
+              </span>
+					</a>
+					<!--					<hr class="navbar-divider ">-->
+				</div>
+			</div>
+			<a class="navbar-item" href="/links/">
+				Links
+			</a>
+
+			<a class="navbar-item" href="/contact/">
+				Contact
+			</a>
+
+			<div class="navbar-item has-dropdown is-hoverable">
+
+				<p class="navbar-link">
+					More
+				</p>
+
+				<div id="moreDropdown" class="navbar-dropdown">
+					<a class="navbar-item  " href="/badges">
+              <span>
+                Badges
+                <br>
+              </span>
+					</a>
+					<a class="navbar-item  " href="/support">
+              <span>
+                Support
+                <br>
+              </span>
+					</a>
+					<!--					<hr class="navbar-divider ">-->
+				</div>
+			</div>
+
+		</div>
+		<div class="navbar-end">
+			<a class="navbar-item" href="/auth/">
+				Auth
+			</a>
+		</div>
+	</div>
 </nav>

@@ -3,3 +3,4 @@ logs/access.log
 logs/nginx.pid
 _.idea/workspace.xml
 .idea/workspace.xml
+.idea/webServers.xml

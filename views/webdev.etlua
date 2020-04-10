@@ -1,14 +1,29 @@
 <section class="section">
 <div class="container">
   <h1 class="title">
-    Web development
+    Web/other development
   </h1>
   <p class="subtitle">
-    stack: nginx, openresty, lua, lapis, bulma, jquery
+		fav stack: <a href="https://www.nginx.com/">nginx</a>,
+		<a href="https://openresty.org/">openresty</a>,
+		<a href="https://www.lua.org/">lua</a>,
+		<a href="https://leafo.net/lapis/">lapis</a>,
+		<a href="https://bulma.io/">bulma</a>,
+		<a href="https://jquery.com/">jquery</a>,
+		<a href="https://www.postgresql.org/">postgresql</a>
+  </p>
+  <p>
+    other: c# php sql c
+		<a href="https://en.wikipedia.org/wiki/Microsoft_Analysis_Services">ssas</a>
   </p>
 
   <p class="subtitle">
 
   </p>
+
+	<p>
+		other-other: editorconfig, jetbrains ide, <a href="https://studio.zerobrane.com/">zerobrane</a>,
+		<a href="https://www.aseprite.org/">aseprite</a>, ssh, ftp, git, linux, opencv, game automation
+	</p>
 </div>
 </section>

@@ -1,0 +1,15 @@
+.zine-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+}
+
+.zine-item {
+    padding-right:10px;
+}
+
+.footer {
+	background-color: #ffffff;
+}
