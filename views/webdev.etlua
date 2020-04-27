@@ -1,20 +1,28 @@
 <section class="section">
 <div class="container">
   <h1 class="title">
-    Web/other development
+    Software development service
   </h1>
+	<p class="subtitle">
+		I am freelancer. Need anything done?
+		<a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fo7.by">Fast website?</a>
+		<a target="_blank" href="https://github.com/MarvelWild/WildWorld" >Videogame?</a>
+		Game bot/ai/tests, big data analytics system, custom stuff,...
+	</p>
   <p class="subtitle">
-		fav stack: <a href="https://www.nginx.com/">nginx</a>,
+		superpowers:
+		<a href="https://love2d.org/">LÖVE </a>,
+		<a href="https://www.lua.org/">lua</a>
+	</p>
+  <p>
+    other: c#, php, sql, c,
+		<a href="https://en.wikipedia.org/wiki/Microsoft_Analysis_Services">ssas</a>,
+		<a href="https://www.nginx.com/">nginx</a>,
 		<a href="https://openresty.org/">openresty</a>,
-		<a href="https://www.lua.org/">lua</a>,
 		<a href="https://leafo.net/lapis/">lapis</a>,
 		<a href="https://bulma.io/">bulma</a>,
 		<a href="https://jquery.com/">jquery</a>,
 		<a href="https://www.postgresql.org/">postgresql</a>
-  </p>
-  <p>
-    other: c# php sql c
-		<a href="https://en.wikipedia.org/wiki/Microsoft_Analysis_Services">ssas</a>
   </p>
 
   <p class="subtitle">
@@ -22,8 +30,12 @@
   </p>
 
 	<p>
-		other-other: editorconfig, jetbrains ide, <a href="https://studio.zerobrane.com/">zerobrane</a>,
-		<a href="https://www.aseprite.org/">aseprite</a>, ssh, ftp, git, linux, opencv, game automation
+		other-other | hands-on: <a href="https://editorconfig.org/">editorconfig</a>,
+		<a href="https://www.jetbrains.com/">jetbrains ide</a>,
+		<a href="https://studio.zerobrane.com/">zerobrane</a>,
+		<a href="https://www.aseprite.org/">aseprite</a>,
+		<a href="https://www.yoyogames.com/gamemaker">game maker</a>,
+		ssh, ftp, git, linux, opencv, game automation, unity
 	</p>
 </div>
 </section>

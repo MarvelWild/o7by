@@ -14,5 +14,7 @@ personal links page
 
 pgsql
 
+mag reading percentage
+
 
 

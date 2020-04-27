@@ -1,15 +1,28 @@
 // bulma hepers
-$(document).ready(function() {
+// $(document).ready(function() {
+//
+//   // Check for click events on the navbar burger icon
+//   $(".navbar-burger").click(function() {
+//
+//       // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+//       $(".navbar-burger").toggleClass("is-active");
+//       $(".navbar-menu").toggleClass("is-active");
+//
+//   });
+// });
 
-  // Check for click events on the navbar burger icon
-  $(".navbar-burger").click(function() {
+// no jquery
+(function() {
+	// var burger = document.querySelector('.nav-toggle');
+	// var menu = document.querySelector('.nav-menu');
 
-      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-      $(".navbar-burger").toggleClass("is-active");
-      $(".navbar-menu").toggleClass("is-active");
-
-  });
-});
+	var burger = document.querySelector('.navbar-burger');
+	var menu = document.querySelector('.navbar-menu');
+	burger.addEventListener('click', function() {
+		burger.classList.toggle('is-active');
+		menu.classList.toggle('is-active');
+	});
+})();
 
 
 function clipbpard_set(text) {

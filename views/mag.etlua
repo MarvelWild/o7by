@@ -7,7 +7,7 @@
 ]]--
 %>
 <section class="section">
-
+	todo: personalized
         <div class="zine-container">
             <% for i, id in pairs(ids) do %>
             <div class="zine-item">

@@ -20,6 +20,7 @@ return function(self)
 		'0Gqh4e1S6j0',
 		'Eg42h8fgk4k',
 		'bbHZUS5zLhE',
+		's3YAE_uK8AM',
 --		'Au46lJu8icA',
 	}
 	return { render = "mag" }
