@@ -6,9 +6,11 @@
 return function(self)
 	self.page_title = 'Mag'
 
-	self.ids=
-	{
+	-- todo: read and store meta
+	local ids={
 		'-zwVBYpJ3A4',
+		'-9pgIVcB3rk',
+		'KQE29az48gM',
 		'GYecrJwh0QE',
 		'gB_y8LAEVtg',
 		'wpYZsKYUzOI',
@@ -21,7 +23,15 @@ return function(self)
 		'Eg42h8fgk4k',
 		'bbHZUS5zLhE',
 		's3YAE_uK8AM',
---		'Au46lJu8icA',
+		'm53dGt3h9VA',
+		'Lp9GgdCgMXk',
+		--		'Au46lJu8icA',
 	}
+	self.ids=ids
+
+
+
+	local random_index=random(1,#ids)
+	self.random_id=ids[random_index]
 	return { render = "mag" }
 end

@@ -1,5 +1,7 @@
 <%
 --[[
+todo: mag controls
+todo: personalized
 <h1 class="title">
 	Zine
 </h1>
@@ -7,12 +9,18 @@
 ]]--
 %>
 <section class="section">
-	todo: personalized
+
+	<button class="button is-large" id="btn_next" onclick="
+location.reload();
+">Roll</button>
         <div class="zine-container">
-            <% for i, id in pairs(ids) do %>
+            <%
+							--for i, id in pairs(ids) do
+							local id=random_id
+						%>
             <div class="zine-item">
                 <iframe width="500" height="300" src="https://www.youtube.com/embed/<%= id %>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <% end %>
+            <% --end %>
         </div>
 </section>
