@@ -56,6 +56,22 @@
                 <br>
               </span>
 					</a>
+<%
+					if Dev_mode then
+						%>
+					<a class="navbar-item"
+						 href="https://developers.google.com/speed/pagespeed/insights/"
+						 target="_blank"
+					>
+              <span>
+                Page speed
+                <br>
+              </span>
+					</a>
+						<%
+					end
+
+%>
 					<!--					<hr class="navbar-divider ">-->
 				</div>
 			</div>

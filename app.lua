@@ -8,6 +8,7 @@ local app = lapis.Application()
 local socket = require("socket")  -- gettime() has higher precision than os.time()
 
 math.randomseed(socket.gettime()*10000);
+html = require "lapis.html"
 random=math.random
 
 app:enable("etlua")
@@ -33,7 +34,17 @@ local px_to_sm = require "controllers.px_to_sm"
 
 
 -- local index=require "src.controllers.index"
-local inspect = require "lib.inspect.inspect"
+inspect = require "lib.inspect.inspect"
+pinspect=function(data)
+		return '<pre>'..inspect(data)..'</pre>'
+end
+
+
+
+-- globals
+Headers=ngx.req.get_headers()
+Client_ip=Headers['x-forwarded-for']
+Dev_mode=Client_ip=='192.168.1.1'
 
 
 

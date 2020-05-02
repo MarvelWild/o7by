@@ -17,3 +17,13 @@
 .footer {
 	background-color: #ffffff;
 }
+
+.badges_container
+{
+	display: flex;
+	flex-flow: wrap;
+}
+
+.badge{
+	margin: 4px;
+}

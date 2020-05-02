@@ -3,16 +3,23 @@
 		<h1 class="title">
 			Badges
 		</h1>
-		<p>
-			<a href="https://bulma.io">
-				<img src="/static/img/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
-			</a>
-		</p>
-		<p>
-			<a href="https://bulma.io">
-				<img src="/static/img/powered-by-lua.gif" alt="Powered by lua" width="128" height="128">
-			</a>
-		</p>
+		<div class="badges_container">
+			<div class="badge">
+				<a href="https://bulma.io">
+					<img src="/static/img/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
+				</a>
+			</div>
+			<div class="badge">
+				<a href="https://bulma.io">
+					<img src="/static/img/powered-by-lua.gif" alt="Powered by Lua" width="128" height="128">
+				</a>
+			</div>
+			<div class="badge">
+				<a href="https://leafo.net/lapis/">
+					Powered by Lapis
+				</a>
+			</div>
+		</div>
 	</div>
 </section>
 
