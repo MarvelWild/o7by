@@ -6,3 +6,4 @@ _.idea/workspace.xml
 .idea/webServers.xml
 static/img/tmp/
 .idea/
+static/style.min.css

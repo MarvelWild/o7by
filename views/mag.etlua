@@ -16,11 +16,29 @@ location.reload();
         <div class="zine-container">
             <%
 							--for i, id in pairs(ids) do
-							local id=random_id
+							local id
+							local extra_html=nil
+
+							if (type(random_item)=="table") then
+								id=random_item.id
+								extra_html=random_item.html
+								extra_html=extra_html:gsub("\n","<br>")
+							else
+								id=random_item
+							end
 						%>
             <div class="zine-item">
                 <iframe width="500" height="300" src="https://www.youtube.com/embed/<%= id %>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <% --end %>
+            <% --end
+
+						if extra_html then
+							%>
+						<div>
+							<%-extra_html%>
+						</div>
+							<%
+						end
+						%>
         </div>
 </section>
