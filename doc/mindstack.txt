@@ -4,8 +4,8 @@
 авторизация сделать как на чане /admin
 
 
-auto lang select
-lang select
+auto lang select (ip2c)
+lang select (cokkie)
 
 mag: proxy itch and others
 

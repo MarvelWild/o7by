@@ -17,7 +17,7 @@ return function(self)
 	}
 
 	if Dev_mode then
-		table.insert(self.links,{text="dev",url="test"})
+		--table.insert(self.links,{text="dev",url="test"})
 	end
 
 	return { render = "links" }

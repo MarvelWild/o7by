@@ -21,19 +21,19 @@
 				Home
 			</a>
 
-			<a class="navbar-item" href="/gamedev/">
+			<a class="navbar-item" href="/gamedev">
 				Game development
 			</a>
 
-			<a class="navbar-item" href="/dev/">
+			<a class="navbar-item" href="/dev">
 				Custom development
 			</a>
 
-			<a class="navbar-item" href="/mag/">
+			<a class="navbar-item" href="/mag">
 				Zine
 			</a>
 
-			<a class="navbar-item" href="/art/">
+			<a class="navbar-item" href="/art">
 				Art
 			</a>
 
@@ -75,11 +75,11 @@
 					<!--					<hr class="navbar-divider ">-->
 				</div>
 			</div>
-			<a class="navbar-item" href="/links/">
+			<a class="navbar-item" href="/links">
 				Links
 			</a>
 
-			<a class="navbar-item" href="/contact/">
+			<a class="navbar-item" href="/contact">
 				Contact
 			</a>
 
@@ -108,7 +108,7 @@
 
 		</div>
 		<div class="navbar-end">
-			<a class="navbar-item" href="/auth/">
+			<a class="navbar-item" href="/auth">
 				Auth
 			</a>
 		</div>

@@ -26,4 +26,8 @@
 
 .badge{
 	margin: 4px;
+	padding: 2px;
+	border-style: dotted;
+	border-width: 1px;
+	border-radius: 8px;
 }

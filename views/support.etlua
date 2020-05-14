@@ -1,7 +1,7 @@
 <section class="section">
 	<div class="container">
 		<h1 class="title">
-			Support donationware/open source
+			Support
 		</h1>
 		<p>
 			<a href="https://yasobe.ru/na/gamedev_way">https://yasobe.ru/na/gamedev_way</a>
@@ -16,10 +16,32 @@
 			eth: 0xF58BD9894f9039C76d9329d7570011DB280049BD
 		</p>
 		<p>
-			goals: better hardware, rent, so basically more time for open source projects.
+			goals: better hardware, rent, so basically more time for open source projects.<br>
+			<br>
 
-			Thanks for support!
+			status (in usd):<br>
+			1 year rent+electricity+internet (2020): 400/800<br>
+			<progress
+				class="progress is-primary" value="50" max="100"
+				style="max-width:400px">
+				50%
+			</progress>
+
+
+			pc upgrade: 24/450<br>
+			<progress class="progress is-primary" value="5" max="100" style="max-width:400px">
+				5%
+			</progress>
+			<br>
+			sources:<br>
+				freelance: 424<br>
+				donations: 0<br>
+			<br>
+			Thanks for support!<br>
+			<br>
 		</p>
+
+
 	</div>
 </section>
 

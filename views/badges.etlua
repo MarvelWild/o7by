@@ -19,6 +19,14 @@
 					Powered by Lapis
 				</a>
 			</div>
+			<div class="badge">
+				<div>
+				extra cpu power goes to:
+				</div>
+				<div style="display:inline">
+					<iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?memberName=YPahomau&mnOn=true&stat=3&imageNum=3&rankOn=false&projectsOn=false&special=false&link=2&memberId=1004468" frameborder="0" name="di" scrolling="no" width="125px" height="176px"></iframe>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>

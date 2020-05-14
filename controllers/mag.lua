@@ -1,7 +1,9 @@
--- idea: pick tags
+-- idea: pick tags games movie music
 -- roll
 -- remember shown
 -- fav button
+-- progress
+-- todo: meta, lyrics, stuff
 
 return function(self)
 	self.page_title = 'Mag'
@@ -26,6 +28,16 @@ return function(self)
 		'm53dGt3h9VA',
 		'Lp9GgdCgMXk',
 		'42JxVqZ9QFo',
+		'EBx_FuZC9Q0',
+		'bqdbYEaph9Q',
+		'25MziL_5BJA',
+		'wR5zlx56VkA',
+		'k_oTQd93eRI',
+		'JZ6ZzJeWgpY',
+		'ftqkP3n2qLU',
+		'QyZeJr5ppm8',
+		'ZslD5_x0UTU',
+		'_k1y8pymrF4',
 		--		'Au46lJu8icA',
 	}
 	self.ids=ids
