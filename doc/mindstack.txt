@@ -20,3 +20,8 @@ mag reading percentage
 
 
 
+
+-- hello in every language
+-- en ru by pl md
+
+-- ro buna

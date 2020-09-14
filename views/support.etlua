@@ -16,26 +16,19 @@
 			eth: 0xF58BD9894f9039C76d9329d7570011DB280049BD
 		</p>
 		<p>
-			goals: better hardware, rent, so basically more time for open source projects.<br>
 			<br>
 
 			goals status (in usd):<br>
-			1 year rent+electricity+internet (2020): 500/800<br>
+			piece of land 120/5000 (2.4%)<br>
 			<progress
-				class="progress is-primary" value="62" max="100"
+				class="progress is-primary" value="2" max="100"
 				style="max-width:400px">
-				62%
+				2.4%
 			</progress>
 
-
-			pc upgrade: 48/450<br>
-			<progress class="progress is-primary" value="11" max="100" style="max-width:400px">
-				5%
-			</progress>
-			<br>
 			sources:<br>
-				freelance: 548<br>
-				supporters: 0<br>
+				freelance: 120<br>
+				donations: 0<br>
 			<br>
 			Thanks for support!<br>
 			<br>

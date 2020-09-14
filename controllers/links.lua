@@ -18,6 +18,7 @@ return function(self)
 
 	if Dev_mode then
 		--table.insert(self.links,{text="dev",url="test"})
+		-- table.insert(self.links,{text="regex",url="https://regex101.com/"})
 	end
 
 	return { render = "links" }

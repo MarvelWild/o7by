@@ -5,6 +5,20 @@
 -- progress
 -- todo: meta, lyrics, stuff
 
+--[[
+(Verse 1)
+I won't be there, I won't play fair
+In here somewhere, I will find my cause
+I won't be there, no it's not my fair
+I won't  be there, just to lose my cause
+
+Instrumental
+
+(Verse 2)
+I won't be there. (repeat)
+
+]]--
+
 return function(self)
 	self.page_title = 'Mag'
 
@@ -18,22 +32,13 @@ return function(self)
 			id='2F6Dhimg4DQ',
 			id='kxJm0iL6M9g',
 			html=[[
-(Verse 1)
-I won't be there, I won't play fair
-In here somewhere, I will find my cause
-I won't be there, no it's not my fair
-I won't  be there, just to lose my cause
-
-Instrumental
-
-(Verse 2)
-I won't be there. (repeat)
 			]]
 		},
 		'-zwVBYpJ3A4',
 		'-9pgIVcB3rk',
 		'KQE29az48gM',
 		'GYecrJwh0QE',
+		'CMpTzxRHuio',
 		'gB_y8LAEVtg',
 		'wpYZsKYUzOI',
 		{

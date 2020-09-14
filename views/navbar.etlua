@@ -68,6 +68,15 @@
                 <br>
               </span>
 					</a>
+					<a class="navbar-item"
+						 href="https://regex101.com/"
+						 target="_blank"
+					>
+              <span>
+                Regex
+                <br>
+              </span>
+					</a>
 						<%
 					end
 
