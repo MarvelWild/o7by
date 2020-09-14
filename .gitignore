@@ -7,3 +7,5 @@ _.idea/workspace.xml
 static/img/tmp/
 .idea/
 static/style.min.css
+/static/img/art/*
+/node_modules/*
