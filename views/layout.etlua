@@ -19,3 +19,4 @@ end
 <% render("views.footer") %>
 </body>
 </html>
+<!--<%=Client_ip%>-->

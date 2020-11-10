@@ -22,6 +22,7 @@ local contact = require "controllers.contact"
 local contact_form = require "controllers.contact_form"
 local mag = require "controllers.mag"
 local art = require "controllers.art"
+local photo = require "controllers.photo"
 local links = require "controllers.links"
 local auth = require "controllers.auth"
 local badges = require "controllers.badges"
@@ -44,7 +45,7 @@ end
 -- globals
 Headers=ngx.req.get_headers()
 Client_ip=Headers['x-forwarded-for']
-Dev_mode=Client_ip=='192.168.1.1'
+Dev_mode=Client_ip=='192.168.1.1' or Client_ip=='109.207.194.113'
 
 
 
@@ -57,6 +58,7 @@ app:match("/dev", dev)
 app:match("/contact", contact)
 app:match("/mag", mag)
 app:match("/art", art)
+app:match("/photo", photo)
 app:match("/links", links)
 app:match("/tools", tools)
 app:match("/px_to_sm", px_to_sm)

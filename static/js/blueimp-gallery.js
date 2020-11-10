@@ -636,6 +636,7 @@
     },
 
     onmousemove: function (event) {
+			// console.log('mmm');
       if (this.touchStart) {
         ;(event.originalEvent || event).touches = [
           {
@@ -646,6 +647,10 @@
         this.ontouchmove(event)
       }
     },
+
+		// onwheel: function (event){
+    // 	console.log('www');
+		// },
 
     onmouseup: function (event) {
       if (this.touchStart) {

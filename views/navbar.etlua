@@ -37,6 +37,10 @@
 				Art
 			</a>
 
+			<a class="navbar-item" href="/photo">
+				Photo
+			</a>
+
 			<div class="navbar-item has-dropdown is-hoverable">
 
 				<p class="navbar-link">

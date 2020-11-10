@@ -8,185 +8,159 @@
 		 itemscope itemtype="http://schema.org/ImageGallery">
 
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/001.jpg" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/001t.jpg" itemprop="thumbnail" alt="001 by MW" />
+		<a href="/static/img/photo/IMG_0315.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0315_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0324.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0324_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0322.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0322_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0319.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0319_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0317.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0317_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0316.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0316_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0303.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0303_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0276.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0276_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0265.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0265_tn.jpg" itemprop="thumbnail" alt="Головач мешковатый" title="Головач мешковатый" />
+		</a>
+		<figcaption itemprop="Название">Головач мешковатый</figcaption>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0258.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0258_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0163.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0163_tn.jpg" itemprop="thumbnail" alt="" />
+		</a>
+	</figure>
+
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="/static/img/photo/IMG_0329.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0329_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/002.jpg" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/002t.jpg" itemprop="thumbnail" alt="002 by MW" />
+		<a href="/static/img/photo/IMG_0328.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0328_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/003.jpg" itemprop="contentUrl" data-size="1080x1080">
-			<img src="/static/img/art/003t.jpg" itemprop="thumbnail" alt="003 by Mira" />
+		<a href="/static/img/photo/IMG_0327.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0327_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-			<a href="/static/img/art/004.jpg" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/004_t.jpg" itemprop="thumbnail" alt="004 by MW" />
+		<a href="/static/img/photo/IMG_0325.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0325_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/dance.jpg" itemprop="contentUrl" data-size="800x600">
-			<img src="/static/img/art/dance_t.jpg" itemprop="thumbnail" alt="Dance by Mira" />
+		<a href="/static/img/photo/IMG_0321.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0321_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/005.png" itemprop="contentUrl" data-size="568x384">
-			<img src="/static/img/art/005_t.jpg" itemprop="thumbnail" alt="005 by Mira" />
+		<a href="/static/img/photo/IMG_0318.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0318_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/006.jpg" itemprop="contentUrl" data-size="640x640">
-			<img src="/static/img/art/006_t.jpg" itemprop="thumbnail" alt="006 by Mira" />
+		<a href="/static/img/photo/IMG_0313.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0313_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/007.jpg" itemprop="contentUrl" data-size="640x640">
-			<img src="/static/img/art/007_t.jpg" itemprop="thumbnail" alt="007 by Mira" />
+		<a href="/static/img/photo/IMG_0311.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0311_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/008.jpg" itemprop="contentUrl" data-size="640x640">
-			<img src="/static/img/art/008_t.jpg" itemprop="thumbnail" alt="008 by Mira" />
+		<a href="/static/img/photo/IMG_0309.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0309_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0248.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0248_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0291.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0291_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0238.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0238_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0283.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0283_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0232.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0232_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0282.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0282_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0226.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0226_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0280.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0280_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0242.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0242_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0270.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0270_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0241.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0241_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0268.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0268_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0245.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0245_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0308.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0308_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0247.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0247_tn.jpg" itemprop="thumbnail" alt="" />
+		<a href="/static/img/photo/IMG_0296.JPG" itemprop="contentUrl" data-size="3264x2448">
+			<img src="/static/img/photo/IMG_0296_tn.jpg" itemprop="thumbnail" alt="" />
 		</a>
 	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0246.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0246_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0244.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0244_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0243.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0243_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0240.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0240_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0239.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0239_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0237.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0237_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0235.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0235_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0234.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0234_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0233.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0233_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0231.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0231_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0230.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0230_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0229.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0229_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0228.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0228_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0227.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0227_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0225.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0225_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0223.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0223_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0222.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0222_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0221.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0221_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/static/img/art/IMG_0220.JPG" itemprop="contentUrl" data-size="3264x2448">
-			<img src="/static/img/art/IMG_0220_tn.jpg" itemprop="thumbnail" alt="" />
-		</a>
-	</figure>
+
+
 
 </div>
 
